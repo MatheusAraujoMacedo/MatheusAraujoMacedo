@@ -1,20 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Opa Beleza?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Olá me Chamo Matheus Araujo</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Estudante de Sistemas de Informação e bolsista na Impacta, com foco em desenvolvimento back-end em linguagens como (Python, Java, SQL, MySql, MongoDB). Possuo experiência em desenvolvimento web (HTML, CSS, JavaScript e React), com atuação em projetos práticos e destaque para TCC reconhecido e apresentado no evento Criatech da TOTVS.
+
+Atualmente, atuo como Jovem Aprendiz em TI na Sami, buscando evoluir constantemente minhas habilidades técnicas e desenvolver soluções eficientes, com interesse especial em sistemas financeiros e projetos próprios.</h2>
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Comecei na Aréa com 15 anos <br>📚 Atualmente estou aprendendo AWS e Cibersecurity<br>🎯Tranformar Ideias em Metas concluidas<br> </p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Trabalho com!</h2>
 
 ###
 
