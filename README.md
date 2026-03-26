@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">Estudante de Sistemas de Informação e bolsista na Impacta, com foco em desenvolvimento back-end em linguagens como (Python, Java, SQL, MySql, MongoDB). Possuo experiência em desenvolvimento web (HTML, CSS, JavaScript e React), com atuação em projetos práticos e destaque para TCC reconhecido e apresentado no evento Criatech da TOTVS.
+<h2 align="left">Estudante de Sistemas de Informação e bolsista na Impacta, com foco em desenvolvimento back-end em linguagens como (Python, Java, SQL, MySql, MongoDB). Possuo experiência em desenvolvimento web (HTML, CSS, JavaScript, React e Azure), com atuação em projetos práticos e destaque para TCC reconhecido e apresentado no evento Criatech da TOTVS.
 
 Atualmente, atuo como Jovem Aprendiz em TI na Sami, buscando evoluir constantemente minhas habilidades técnicas e desenvolver soluções eficientes.</h2>
 
